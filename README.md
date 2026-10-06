@@ -32,4 +32,4 @@ Python · Django · REST APIs · PostgreSQL · JavaScript · Chrome extensions (
 Solo-built, shipped to real users, and I fix my own production issues. I'm comfortable with async work and can overlap EU and US hours (Nigeria, UTC+1).
 
 ## Contact
-[email] · [LinkedIn] · [X: @techiegbenga](https://x.com/techiegbenga)
+[ayodelejohn40@gmail.com] · https://linkedin.com/in/techie-john · [X: @techiegbenga](https://x.com/techiegbenga)
